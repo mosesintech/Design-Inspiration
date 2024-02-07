@@ -17,4 +17,5 @@ Under each entry is a link to another markdown file with my thoughts on their we
 # THE LIST
 
 - https://baldbeardedbuilder.com/
+
 This is the personal portfolio of Michael Jolley, the Bald Bearded Builder. [More](/websites/baldbeardedbuilder.com/).
