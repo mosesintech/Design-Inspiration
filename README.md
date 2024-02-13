@@ -14,7 +14,11 @@ What follows is a list of websites that I enjoy looking at or that impliment som
 
 Under each entry is a link to another markdown file with my thoughts on their website. This file will exist in it's own directory here in the repo that will include screenshots of their website components for later reference, just in case the site goes down.
 
-# THE LIST
+## Resources
+
+Additionally, I thought it would be a good idea to use this repo as a resource hub for design things. This can be found at the resource [docs](/resources/README.md)
+
+## THE LIST
 
 - https://baldbeardedbuilder.com/
 
