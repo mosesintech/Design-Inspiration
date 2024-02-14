@@ -6,6 +6,11 @@
 
 - Hero Patterns: https://heropatterns.com
 
+## Videos and Animations
+
+- https://www.pexels.com for royalty free stock videos
+- https://spline.design for 3D assets
+
 ## Figma
 
 ### Plugins
